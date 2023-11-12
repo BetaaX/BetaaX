@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Dex64ter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BetaaX&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetaaX&layout=compact&langs_count=6&theme=moltack"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BetaaX&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetaaX&layout=compact&langs_count=6&theme=moltack"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
