@@ -1,4 +1,4 @@
-### Hi there, my name is João Marcos. 👋
+### Hi there, my name is João. 👋
 
 - 🔭 I’m enhancing my skills in Front-End.
 - 🌱 I’m currently learning React, JS, etc.
