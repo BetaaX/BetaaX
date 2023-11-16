@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/BetaaX">
-  <img width="40%" height="180" src="https://github-readme-stats.vercel.app/api?username=BetaaX&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img width="40%" height="190" src="https://github-readme-stats.vercel.app/api?username=BetaaX&show_icons=false&theme=moltack&include_all_commits=true&count_private=true"/>
   <img width="40%" height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetaaX&layout=compact&langs_count=6&theme=moltack"/>
 </div>
 
