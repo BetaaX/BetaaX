@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F0DB4F)&nbsp; 
 ![jQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD)&nbsp;
-![Bootstrap](https://img.shields.io/badge/BootStrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=#563d7c)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=#563d7c)&nbsp;
 <br>
 
 ![](https://komarev.com/ghpvc/?username=BetaaX&color=lightgrey&style=flat-square&label=PROFILE+VIEWS)
