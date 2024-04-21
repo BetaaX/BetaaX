@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+João.;I'm+18+years+old;and+I’m+enhancing+my+skills+in+Front-End.;Feel+free+to+explore+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+João.;I'm+18+years+old;and+I’m+enhancing+my+skills+in+Front+and+Back.;Feel+free+to+explore+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
   <img align- height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=BetaaX&theme=graywhite">
@@ -14,7 +14,5 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD)&nbsp;
 ![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=#563d7c)&nbsp;
 <br>
-
-![](https://komarev.com/ghpvc/?username=BetaaX&color=lightgrey&style=flat-square&label=PROFILE+VIEWS)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
