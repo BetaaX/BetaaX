@@ -15,6 +15,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F0DB4F)&nbsp; 
 ![Grunt](https://img.shields.io/badge/Grunt-0D1117?style=for-the-badge&logo=grunt&logoColor=E08F38)&nbsp;
 ![Gulp](https://img.shields.io/badge/Gulp-0D1117?style=for-the-badge&logo=gulp&logoColor=E32348)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=06bcee)&nbsp;
 <br>
+<br>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=120&section=footer"/>
