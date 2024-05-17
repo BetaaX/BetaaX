@@ -8,14 +8,14 @@
 </div>
 
 ### Top skills:
-![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=23E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
-![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=#563d7c)&nbsp;
-![Less](https://img.shields.io/badge/Less-0D1117?style=for-the-badge&logo=less&logoColor=213866)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F0DB4F)&nbsp; 
-![Grunt](https://img.shields.io/badge/Grunt-0D1117?style=for-the-badge&logo=grunt&logoColor=E08F38)&nbsp;
-![Gulp](https://img.shields.io/badge/Gulp-0D1117?style=for-the-badge&logo=gulp&logoColor=E32348)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=06bcee)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5&logoColor=B0BCC8)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3&logoColor=B0BCC8)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=B0BCC8)&nbsp;
+![Less](https://img.shields.io/badge/Less-0D1117?style=for-the-badge&logo=less&logoColor=B0BCC8)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=B0BCC8)&nbsp; 
+![Grunt](https://img.shields.io/badge/Grunt-0D1117?style=for-the-badge&logo=grunt&logoColor=B0BCC8)&nbsp;
+![Gulp](https://img.shields.io/badge/Gulp-0D1117?style=for-the-badge&logo=gulp&logoColor=B0BCC8)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=B0BCC8)&nbsp;
 <br>
 <br>
 
